@@ -1,10 +1,8 @@
-# This project is no longer maintained
-
-Issues will not be attended, the code is provided as is for anyone who wants to try and improve it themselves
+# This project originally came from: https://github.com/mdjarv/JoystickVisualizer
 
 # Joystick Visualizer
 [![GitHub release](https://img.shields.io/github/release/mdjarv/joystickvisualizer.svg)](https://github.com/mdjarv/JoystickVisualizer/releases/latest)
-[![Donate](https://img.shields.io/badge/Tip%20Jar-PayPal-green.svg)](http://paypal.me/mdjarv)
+[![Donate](https://img.shields.io/badge/Tip%20Jar-PayPal-green.svg)](http://paypal.me/cheat117)
 [![Discord](https://img.shields.io/badge/Discord-Chat-blue.svg)](https://discord.gg/4nc3XtQ)
 
 Show your stick and throttle movement as an overlay while streaming or recording videos.
